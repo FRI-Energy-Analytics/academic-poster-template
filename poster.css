@@ -95,7 +95,7 @@ body {
 body > header,
 body > footer {
   align-items: center;
-  background: black;
+  background: #bf5700;
   color: white;
   display: grid;
   grid-gap: 0.5rem;
@@ -201,8 +201,8 @@ article > .MathJax_MathML {
   margin: 0.5rem 0 auto 0 !important;
 }
 article > header {
-  background: #2e3436;
-  color: #fcaf3e;
+  background: #333f48;
+  color: #ffffff;
   margin: 0 -0.5rem auto -0.5rem;
   padding: 0.25rem 0.5rem;
 }
@@ -246,7 +246,7 @@ article ol > li::before {
   width: 1em;
 }
 article ul > li::before {
-  background: #f57900;
+  background: #333f48;
   border-radius: 100%;
   content: " ";
   height: 0.35em;
@@ -269,7 +269,7 @@ article ul.inline li::before {
   display: none;
 }
 .boxed {
-  border: thin solid #f57900;
+  border: thin solid #333f48;
   padding: 0.25rem;
 }
 .center {
