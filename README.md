@@ -38,4 +38,4 @@ Once you have completed the sections it is time to build your poster. To do this
 
 For more information on formatting, images, inline math and more [check out the full tutorial](https://cpitclaudel.github.io/academic-poster-template/tutorial/poster.html).
 
-![Energy Analytics Logo](https://github.com/jessepisel/academic-poster-template/blob/main/example_template.png?raw=true)
+![Energy Analytics Logo](https://github.com/jessepisel/academic-poster-template/blob/main/example_template.PNG?raw=true)
